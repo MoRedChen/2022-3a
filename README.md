@@ -33,12 +33,14 @@ First ordered list item
 - [x] done
 
 ### 04
+#### python code
 ```python
 s = "Python syntax highlighting"
 print(s)
 ```
 
 ### 05
+#### javascript code
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s)
