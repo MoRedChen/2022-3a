@@ -38,7 +38,7 @@ First ordered list item
 
 ### 03
 - [ ] todo list
-- [x] done
+- [x] 2nd things
 
 ### 04
 #### python code
