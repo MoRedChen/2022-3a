@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### PERT/CPM 圖
+### 1. PERT/CPM 圖
 ```mermaid
 classDiagram
 
@@ -81,10 +81,10 @@ classDiagram
 <br>
 <br>
 
-### 甘特圖
+### 2. 甘特圖
 ```mermaid
 gantt
-    title 測試甘特圖
+    title 甘特圖
 
     section 任務
     研擬計畫 :a1, 2022-10-03, 1d
@@ -103,7 +103,7 @@ gantt
 <br>
 <br>
 
-### 關鍵路徑
+### 3. 關鍵路徑
 ```mermaid
 classDiagram
 
